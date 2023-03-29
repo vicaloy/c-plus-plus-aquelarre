@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1543772469 source:c:\users\casa\desktop\aquelarre\main.cpp
+	<iostream>
+	<stdio.h>
+	"CapaLogica.h"
+	"String.h"
+	"Especial.h"
+
+1543683463 source:c:\users\casa\desktop\aquelarre\fecha.cpp
+	"fecha.h"
+	<iostream>
+
+1543433142 c:\users\casa\desktop\aquelarre\fecha.h
+
+1543433156 source:c:\users\casa\desktop\aquelarre\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1543531383 c:\users\casa\desktop\aquelarre\string.h
+
+1543688378 source:c:\users\casa\desktop\aquelarre\bruja.cpp
+	"Bruja.h"
+
+1543688563 c:\users\casa\desktop\aquelarre\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1543688242 c:\users\casa\desktop\aquelarre\hechizos.h
+	"Hechizo.h"
+
+1543697569 c:\users\casa\desktop\aquelarre\hechizo.h
+	"String.h"
+
+1543769659 source:c:\users\casa\desktop\aquelarre\comun.cpp
+	"Comun.h"
+
+1543433132 c:\users\casa\desktop\aquelarre\comun.h
+	"String.h"
+	"Hechizos.h"
+	"Bruja.h"
+	"Suprema.h"
+
+1543433164 c:\users\casa\desktop\aquelarre\suprema.h
+	"Fecha.h"
+	"String.h"
+	"Hechizos.h"
+	"Bruja.h"
+
+1543433134 source:c:\users\casa\desktop\aquelarre\especial.cpp
+	"Especial.h"
+
+1543433136 c:\users\casa\desktop\aquelarre\especial.h
+	"String.h"
+	"Hechizos.h"
+
+1543697608 source:c:\users\casa\desktop\aquelarre\hechizo.cpp
+	"Hechizo.h"
+
+1543769996 source:c:\users\casa\desktop\aquelarre\suprema.cpp
+	"Suprema.h"
+
+1543698246 source:c:\users\casa\desktop\aquelarre\hechizos.cpp
+	"Hechizos.h"
+
+1543774008 source:c:\users\casa\desktop\aquelarre\iterador.cpp
+	"Iterador.h"
+	<cstddef>
+	"Bruja.h"
+	<iostream>
+
+1543675789 c:\users\casa\desktop\aquelarre\iterador.h
+	<iostream>
+	"Bruja.h"
+
+1543608490 source:c:\users\java\desktop\aquelarre\bruja.cpp
+	"Bruja.h"
+
+1543608490 c:\users\java\desktop\aquelarre\bruja.h
+	"String.h"
+	"Hechizos.h"
+
+1543531383 c:\users\java\desktop\aquelarre\string.h
+
+1543607878 c:\users\java\desktop\aquelarre\hechizos.h
+	"Hechizo.h"
+
+1543433146 c:\users\java\desktop\aquelarre\hechizo.h
+	"String.h"
+
+1543672187 source:c:\users\java\desktop\aquelarre\brujas.cpp
+	"Brujas.h"
+	<cstddef>
+	"Iterador.h"
+
+1543605481 c:\users\java\desktop\aquelarre\brujas.h
+	"Bruja.h"
+	"Iterador.h"
+	"Suprema.h"
+
+1543675789 c:\users\java\desktop\aquelarre\iterador.h
+	<iostream>
+	"Bruja.h"
+
+1543433128 source:c:\users\java\desktop\aquelarre\comun.cpp
+	"Comun.h"
+
+1543433132 c:\users\java\desktop\aquelarre\comun.h
+	"String.h"
+	"Hechizos.h"
+	"Bruja.h"
+	"Suprema.h"
+
+1543433164 c:\users\java\desktop\aquelarre\suprema.h
+	"Fecha.h"
+	"String.h"
+	"Hechizos.h"
+	"Bruja.h"
+
+1543433142 c:\users\java\desktop\aquelarre\fecha.h
+
+1543433134 source:c:\users\java\desktop\aquelarre\especial.cpp
+	"Especial.h"
+
+1543433136 c:\users\java\desktop\aquelarre\especial.h
+	"String.h"
+	"Hechizos.h"
+
+1543433138 source:c:\users\java\desktop\aquelarre\fecha.cpp
+	"fecha.h"
+
+1543433144 source:c:\users\java\desktop\aquelarre\hechizo.cpp
+	"Hechizo.h"
+
+1543606719 source:c:\users\java\desktop\aquelarre\hechizos.cpp
+	"Hechizos.h"
+
+1543675789 source:c:\users\java\desktop\aquelarre\iterador.cpp
+	"Iterador.h"
+	<cstddef>
+	"Bruja.h"
+	<iostream>
+
+1543674347 source:c:\users\java\desktop\aquelarre\main.cpp
+	<iostream>
+	<stdio.h>
+	"CapaLogica.h"
+	"String.h"
+
+1543433156 source:c:\users\java\desktop\aquelarre\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1543579154 source:c:\users\java\desktop\aquelarre\suprema.cpp
+	"Suprema.h"
+
+1543761836 source:c:\users\casa\desktop\aquelarre\brujas.cpp
+	"Brujas.h"
+	<cstddef>
+	"Iterador.h"
+	<iostream>
+	<stdio.h>
+	"CapaLogica.h"
+	"String.h"
+
+1543688563 c:\users\casa\desktop\aquelarre\brujas.h
+	"Bruja.h"
+	"Iterador.h"
+	"Suprema.h"
+
+1543609075 source:c:\users\casa\desktop\aquelarre\tipoerror.cpp
+	"TipoError.h"
+
+1543682857 c:\users\casa\desktop\aquelarre\tipoerror.h
+	"String.h"
+
+1543770814 source:c:\users\casa\desktop\aquelarre\capalogica.cpp
+	"CapaLogica.h"
+	<iostream>
+
+1543608851 c:\users\casa\desktop\aquelarre\capalogica.h
+	"TipoError.h"
+	"Bruja.h"
+	"Brujas.h"
+	"Suprema.h"
+	"Comun.h"
+	"Hechizo.h"
+	"Iterador.h"
+	"String.h"
+
+1543668559 source:c:\users\java\desktop\aquelarre\capalogica.cpp
+	"CapaLogica.h"
+	<iostream>
+
+1543608851 c:\users\java\desktop\aquelarre\capalogica.h
+	"TipoError.h"
+	"Bruja.h"
+	"Brujas.h"
+	"Suprema.h"
+	"Comun.h"
+	"Hechizo.h"
+	"Iterador.h"
+	"String.h"
+
+1543582624 c:\users\java\desktop\aquelarre\tipoerror.h
+	"String.h"
+
+1543609075 source:c:\users\java\desktop\aquelarre\tipoerror.cpp
+	"TipoError.h"
+
